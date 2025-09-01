@@ -24,7 +24,7 @@ This is a simple mobile application built using **React Native** that calculates
 ### Setup and Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/adityajanjanam/BMICalculatorApp.git
+   git clone https://github.com/Priyagupta0/BMICalculatorApp.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -46,11 +46,8 @@ This is a simple mobile application built using **React Native** that calculates
 - Support for more measurement systems (e.g., metric vs imperial).
 
 ### Screenshots
-![image](https://github.com/user-attachments/assets/2503aaa9-05f8-4eba-ad6e-050ebc28d537)
+
 ![image](https://github.com/user-attachments/assets/5fc1f64f-b201-4bfa-933d-29799b91a1a3)
-![image](https://github.com/user-attachments/assets/d6c2be09-b98c-44be-9fa0-aeb0df0fc698)
-
-
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
