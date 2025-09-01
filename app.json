@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "BMICalculatorApp",
+    "slug": "BMICalculatorApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.yourcompany.bmicalculator",
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "permissions": [],
+      "blockedPermissions": [],
+      "config": {
+        "googleMobileAdsAppId": ""
+      },
+      "softwareKeyboardLayoutMode": "pan",
+      "targetSdkVersion": 33,
+      "compileSdkVersion": 33,
+      "buildToolsVersion": "33.0.0"
+    },
+    "androidStatusBar": {
+      "barStyle": "dark-content",
+      "backgroundColor": "#ffffff"
+    },
+    "androidNavigationBar": {
+      "barStyle": "dark-content",
+      "backgroundColor": "#ffffff"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
